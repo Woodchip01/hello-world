@@ -1,2 +1,3 @@
 # hello-world
-Simple little hello world projecet
+Simple little hello world project
+Lolzers
